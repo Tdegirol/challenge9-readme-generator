@@ -16,7 +16,7 @@
 
   <a id="description"></a>
   ## Description
-  Creates a readme for the user based on command line input
+  Generate a readme for the user based on their input
 
   <a id="install"></a>
   ## Installation 
@@ -26,6 +26,7 @@
   ## Usage 
   inquirer package required
   ![Media-Queries-Image](./utils/usage-image.jpg)
+  ![Media-Queries-Video](./utils/video.webm)
 
   <a id="contributions"></a>
   ## Contributing
@@ -38,4 +39,4 @@
   <a id="questions"></a>
   ## Questions 
   - Github: [tdegirol](https://github.com/tdegirol)
-  - Email: tdegirol@gmail.com
+  - Email: tdegirol@github.com

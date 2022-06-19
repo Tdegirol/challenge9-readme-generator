@@ -52,6 +52,7 @@ function generateMarkdown(data) {
   ## Usage 
   ${data.usage}
   ![Media-Queries-Image](./utils/usage-image.jpg)
+  ![Media-Queries-Video](./utils/video.webm)
 
   <a id="contributions"></a>
   ## Contributing
