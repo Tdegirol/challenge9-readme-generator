@@ -27,18 +27,18 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Licensing:
-    If applicable, please click on this badge to get more information on the chosen license:
-    ${renderLicenseBadge(data.license)}
-    [![License](https://img.shields.io/badge/license-${data.license}-blue)](https://opensource.org/licenses/${data.license})
+  If applicable, please click on this badge to get more information on the chosen license:
+  ${renderLicenseBadge(data.license)}
+  [![License](https://img.shields.io/badge/license-${data.license}-blue)](https://opensource.org/licenses/${data.license})
 
   ## Table of Contents
-    - [License](#license)
-    - [Description](#description)
-    - [Installation](#install)
-    - [Usage](#usage)
-    - [Contributing](#contributions)
-    - [Testing](#tests)
-    - [Questions](#questions)
+  - [License](#license)
+  - [Description](#description)
+  - [Installation](#install)
+  - [Usage](#usage)
+  - [Contributing](#contributions)
+  - [Testing](#tests)
+  - [Questions](#questions)
 
   <a id="description"></a>
   ## Description
