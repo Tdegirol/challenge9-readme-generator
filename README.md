@@ -1,9 +1,7 @@
 # test
 
   ## Licensing:
-  [![license](function renderLicenseBadge(license) {
-  const licenseBadge = 'https://img.shields.io/badge/license-${data.license}-blue'
-})](https://shields.io)
+  [![license](https://img.shields.io/badge/license-${MIT}-blue)](https://shields.io)
 
   ## Table of Contents
     - [Description](#description)
