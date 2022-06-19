@@ -3,7 +3,7 @@
   <a id="license"></a>
   ## Licensing:
   If applicable, please click on this badge to get more information on the chosen license:
-  [![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://opensource.org/licenses/Apache_2.0)
+  [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   - [License](#license)
@@ -16,7 +16,7 @@
 
   <a id="description"></a>
   ## Description
-  Generate a readme for the user based on their input
+  Creates a readme for the user based on command line input
 
   <a id="install"></a>
   ## Installation 
