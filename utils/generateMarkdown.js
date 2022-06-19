@@ -30,6 +30,7 @@ function generateMarkdown(data) {
   ## Licensing:
     If applicable, please click on this badge to get more information on the chosen license:
     ${renderLicenseBadge(data.license)}
+    [![License](https://img.shields.io/badge/license-${data.license}-blue)](https://opensource.org/licenses/'+${data.license}+)
 
   ## Table of Contents
     - [License](#license)
