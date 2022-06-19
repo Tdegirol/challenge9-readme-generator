@@ -1,18 +1,18 @@
-# Professional README generator
+# Professional ReadMe Generator
 
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
   ## Table of Contents
-    - [Description] (#description)
-    - [Installation] (#install)
-    - [Usage] (#usage)
-    - [Contributing] (#contributions)
-    - [Testing] (#tests)
-    - [Questions] (#questions)
+    - [ Description. ](#description)
+    - [ Installation. ](#install)
+    - [ Usage. ](#usage)
+    - [ Contributing. ](#contributions)
+    - [ Testing. ](#tests)
+    - [ Questions. ](#questions)
 
   ## Description
-  create readme file for user
+  create a readme for the user
 
   ## Installation
   npm i
