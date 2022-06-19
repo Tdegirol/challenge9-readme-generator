@@ -1,9 +1,9 @@
-# test
+# 
 
+  <a id="license"></a>
   ## Licensing:
   If applicable, please click on this badge to get more information on the chosen license:
-  [![License](https://img.shields.io/badge/license-AGPL-blue)](https://opensource.org/licenses/AGPL)
-  [![License](https://img.shields.io/badge/license-AGPL-blue)](https://opensource.org/licenses/AGPL)
+  [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   - [License](#license)
@@ -37,5 +37,5 @@
 
   <a id="questions"></a>
   ## Questions 
-  - Github: [test](https://github.com/test)
-  - Email: test
+  - Github: [](https://github.com/)
+  - Email: 
