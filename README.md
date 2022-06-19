@@ -1,14 +1,14 @@
-# generator
+# Professional Readme Generator
 
   <a id="license"></a>
   ## Licensing:
     If applicable, please click on this badge to get more information on the chosen license:
-    
+    [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-    - [License](/license)
-    - [Description](/description)
-    - [Installation](/install)
+    - [License](#license)
+    - [Description](#description)
+    - [Installation](#install)
     - [Usage](#usage)
     - [Contributing](#contributions)
     - [Testing](#tests)
@@ -16,7 +16,7 @@
 
   <a id="description"></a>
   ## Description
-  testing
+  Creates a readme for the user based on their input
 
   <a id="install"></a>
   ## Installation 
@@ -24,12 +24,12 @@
 
   <a id="usage"></a>
   ## Usage 
-  test
+  inquirer package required
   ![Media-Queries-Image](./utils/usage-image.jpg)
 
   <a id="contributions"></a>
   ## Contributing
-  testing again
+  n/a
 
   <a id="tests"></a>
   ## Testing
