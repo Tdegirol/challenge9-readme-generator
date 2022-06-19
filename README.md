@@ -4,12 +4,12 @@
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
   ## Table of Contents
-    - [Description](#description)
-    - [Installation](#install)
-    - [Usage](#usage)
-    - [Contributing](#contributions)
-    - [Testing](#tests)
-    - [Questions](#questions)
+    - [Description] (#description)
+    - [Installation] (#install)
+    - [Usage] (#usage)
+    - [Contributing] (#contributions)
+    - [Testing] (#tests)
+    - [Questions] (#questions)
 
   ## Description
   create readme file for user
@@ -19,7 +19,7 @@
 
   ## Usage
   answer command line questions
-  ![Media-Queries-Image](usage-image.jpg)
+  ![Media-Queries-Image](./utils/usage-image.jpg)
 
   ## Contributing
   n/a
