@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     const licenseBadge = '';
     return licenseBadge
   }else{
-    const licenseBadge = 'Please click on this badge to get more information on the chosen license: '+'[![License](https://img.shields.io/badge/license-'+license+'-blue)](https://opensource.org/licenses/'+license+')';
+    const licenseBadge = '[![License](https://img.shields.io/badge/license-'+license+'-blue)](https://opensource.org/licenses/'+license+')';
     return licenseBadge
   }
 }
@@ -28,12 +28,13 @@ function generateMarkdown(data) {
 
   <a id="license"></a>
   ## Licensing:
+    If applicable, please click on this badge to get more information on the chosen license:
     ${renderLicenseBadge(data.license)}
 
   ## Table of Contents
-    - [License](#license)
-    - [Description](#description)
-    - [Installation](#install)
+    - [License](/license)
+    - [Description](/description)
+    - [Installation](/install)
     - [Usage](#usage)
     - [Contributing](#contributions)
     - [Testing](#tests)

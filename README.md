@@ -1,13 +1,14 @@
-# gen
+# generator
 
   <a id="license"></a>
   ## Licensing:
-    Please click on this badge to get more information on the chosen license: [![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://opensource.org/licenses/Apache_2.0)
+    If applicable, please click on this badge to get more information on the chosen license:
+    
 
   ## Table of Contents
-    - [License](#license)
-    - [Description](#description)
-    - [Installation](#install)
+    - [License](/license)
+    - [Description](/description)
+    - [Installation](/install)
     - [Usage](#usage)
     - [Contributing](#contributions)
     - [Testing](#tests)
@@ -23,12 +24,12 @@
 
   <a id="usage"></a>
   ## Usage 
-  idc
+  test
   ![Media-Queries-Image](./utils/usage-image.jpg)
 
   <a id="contributions"></a>
   ## Contributing
-  n/a
+  testing again
 
   <a id="tests"></a>
   ## Testing
