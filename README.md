@@ -1,7 +1,7 @@
 # test
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-${MIT}-blue)](https://shields.io)
+  [![License](https://img.shields.io/badge/license-${MIT}-blue)](https://shields.io)(https://opensource.org/licenses/MIT)
 
   ## Table of Contents
     - [Description](#description)
