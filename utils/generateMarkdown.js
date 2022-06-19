@@ -1,29 +1,37 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  const licenseBadge = '[![License](https://img.shields.io/badge/license-${'+license+'}-blue)](https://shields.io)';
-  return licenseBadge
+  if (license === 'none'){
+    const licenseBadge = '';
+    return licenseBadge
+  }else{
+    const licenseBadge = 'Please click on this badge to get more information on the chosen license: '+'[![License](https://img.shields.io/badge/license-'+license+'-blue)](https://opensource.org/licenses/'+license+')';
+    return licenseBadge
+  }
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  const licenseLink = '(https://opensource.org/licenses/'+license+')';
-  return licenseLink
+  //i don't understand the purpose of this function? link/badge are together in function above.
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+  //also don't understand why we would need this function?
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  <a id="license"></a>
   ## Licensing:
-  ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
+    ${renderLicenseBadge(data.license)}
 
   ## Table of Contents
+    - [License](#license)
     - [Description](#description)
     - [Installation](#install)
     - [Usage](#usage)
@@ -31,28 +39,28 @@ function generateMarkdown(data) {
     - [Testing](#tests)
     - [Questions](#questions)
 
-  <a name="description"></a>
+  <a id="description"></a>
   ## Description
   ${data.description}
 
-  <a name="install"></a>
+  <a id="install"></a>
   ## Installation 
   ${data.install}
 
-  <a name="usage"></a>
+  <a id="usage"></a>
   ## Usage 
   ${data.usage}
   ![Media-Queries-Image](./utils/usage-image.jpg)
 
-  <a name="contributions"></a>
+  <a id="contributions"></a>
   ## Contributing
   ${data.contributions}
 
-  <a name="tests"></a>
+  <a id="tests"></a>
   ## Testing
   ${data.tests}
 
-  <a name="questions"></a>
+  <a id="questions"></a>
   ## Questions 
   - Github: [${data.username}](https://github.com/${data.username})
   - Email: ${data.email}

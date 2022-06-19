@@ -1,9 +1,11 @@
-# test
+# gen
 
+  <a id="license"></a>
   ## Licensing:
-  [![License](https://img.shields.io/badge/license-${MIT}-blue)](https://shields.io)(https://opensource.org/licenses/MIT)
+    Please click on this badge to get more information on the chosen license: [![License](https://img.shields.io/badge/license-Apache_2.0-blue)](https://opensource.org/licenses/Apache_2.0)
 
   ## Table of Contents
+    - [License](#license)
     - [Description](#description)
     - [Installation](#install)
     - [Usage](#usage)
@@ -11,28 +13,28 @@
     - [Testing](#tests)
     - [Questions](#questions)
 
-  <a name="description"></a>
+  <a id="description"></a>
   ## Description
-  test
+  testing
 
-  <a name="install"></a>
+  <a id="install"></a>
   ## Installation 
-  test
+  npm i
 
-  <a name="usage"></a>
+  <a id="usage"></a>
   ## Usage 
-  test
+  idc
   ![Media-Queries-Image](./utils/usage-image.jpg)
 
-  <a name="contributions"></a>
+  <a id="contributions"></a>
   ## Contributing
-  test
+  n/a
 
-  <a name="tests"></a>
+  <a id="tests"></a>
   ## Testing
-  test
+  npm test
 
-  <a name="questions"></a>
+  <a id="questions"></a>
   ## Questions 
-  - Github: [test](https://github.com/test)
-  - Email: test
+  - Github: [tdegirol](https://github.com/tdegirol)
+  - Email: tdegirol@gmail.com
